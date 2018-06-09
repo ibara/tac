@@ -1,0 +1,4 @@
+Makefile
+tac
+tac.o
+*.core
